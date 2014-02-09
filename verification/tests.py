@@ -20,7 +20,7 @@ TESTS = {
         },
         {
             "input": [5, 5],
-            "answer": 0,
+            "answer": 10,
         },
 
     ],
